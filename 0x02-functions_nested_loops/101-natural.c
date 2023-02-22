@@ -8,6 +8,7 @@
  */
 int main(void)
 {
+	loop_to
 
 	return (0);
 }
